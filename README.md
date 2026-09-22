@@ -41,6 +41,7 @@ AI is transforming how we write code. This list tracks the best tools to superch
 - [Aider](https://aider.chat/) - Terminal-based AI pair programmer. Works with any LLM.
 - [Continue](https://continue.dev/) - Open-source autopilot for VS Code and JetBrains. Bring your own model.
 - [Mentat](https://mentat.ai/) - AI coding assistant that edits multiple files and runs commands.
+- [molt](https://github.com/solvyxtech/molt) - Coding agent that won't say done on a false claim. Verification on disk; receipts either way.
 - [PearAI](https://trypear.ai/) - Open-source AI code editor with multiple model support.
 
 ## Code Review & QA
