@@ -52,6 +52,7 @@ AI is transforming how we write code. This list tracks the best tools to superch
 
 ## Testing & Debugging
 
+- [agent-qa](https://vostride.com) - Tests web/mobile apps with memidex memory and validated self-improvement.
 - [Diffblue Cover](https://www.diffblue.com/) - AI that writes unit tests for Java code automatically.
 - [CodiumAI](https://www.codium.ai/) - Generates meaningful tests for your code. Works with IDEs.
 - [Kite](https://www.kite.com/) - AI-powered code completions and documentation lookup (archived, but influential).
